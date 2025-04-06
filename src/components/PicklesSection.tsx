@@ -18,7 +18,7 @@ const pickles = [
   {
     id: 3,
     key: "gundappeMango",
-    imageSrc: "https://images.unsplash.com/photo-1557053506-91e48fb4dba1?auto=format&fit=crop&q=80&w=1000"
+    imageSrc: "/midi.jpg"
   },
   {
     id: 4,

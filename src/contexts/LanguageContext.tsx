@@ -40,14 +40,14 @@ export const translations = {
     },
     
     // Footer
-    taglineFooter: "Bringing the authentic taste of traditional Indian pickles to your table since 1965.",
+    taglineFooter: "Bringing the authentic taste of traditional Indian pickles to your table since 2000.",
     contactUs: "Contact Us",
     getInTouch: "Get in Touch",
     address1: "Rayeshvar nilaya, Marikamba Nagar",
     address2: "Uttarkannad District, Sirsi",
     address3: "Karnataka, India - 581401",
-    email: "Email: info@picklepalace.com",
-    phone: "Phone: +91 98765 43210",
+    email: "Email: vaishnavi.home.products@gmail.com",
+    phone: "Phone: +91 9480790031 / 9986465821",
     hours: "Hours: Mon-Sat, 9:00 AM - 6:00 PM",
     copyright: "© 2025 Vaishnavi Pickles. All rights reserved."
   },
@@ -94,8 +94,8 @@ export const translations = {
     address1: "ರಾಯೇಶ್ವರ ನಿಲಯ, ಮರಿಕಾಂಬಾ ನಗರ",
     address2: "ಉತ್ತರಕನ್ನಡ ಜಿಲ್ಲೆ, ಸಿರಸಿ",
     address3: "ಕರ್ನಾಟಕ, ಭಾರತ - 581401",
-    email: "ಇಮೇಲ್: info@picklepalace.com",
-    phone: "ದೂರವಾಣಿ: +91 98765 43210",
+    email: "ಇಮೇಲ್: vaishnavi.home.products@gmail.com",
+    phone: "ದೂರವಾಣಿ: +91 9480790031 / 9986465821",
     hours: "ಕಾರ್ಯ ಸಮಯ: ಸೋಮ-ಶನಿ, ಬೆಳಗ್ಗೆ 9:00 - ಸಂಜೆ 6:00",
     copyright: "© 2025 ವೈಷ್ಣವಿ ಉಪ್ಪಿನಕಾಯಿ. ಎಲ್ಲಾ ಹಕ್ಕುಗಳನ್ನು ಕಾಯ್ದಿರಿಸಲಾಗಿದೆ."
   }
