@@ -24,7 +24,7 @@ const Logo: React.FC<LogoProps> = ({ className }) => {
         <path d="M16 20C19 22 22 23 25 23C28 23 31 22 34 20" stroke="#8B4513" strokeWidth="1.5" />
         <path d="M19 32C21 34 23 35 25 35C27 35 29 34 31 32" stroke="#8B4513" strokeWidth="1.5" />
       </svg>
-      <span className="text-2xl font-bold font-playfair text-pickle-brown">Pickle Palace</span>
+      <span className="text-2xl font-bold font-playfair text-pickle-brown">Vaishnavi Pickles</span>
     </div>
   );
 };

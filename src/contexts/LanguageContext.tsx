@@ -19,7 +19,7 @@ export const translations = {
     
     // Pickle names and descriptions
     tenderMango: {
-      name: "Tender Mango Pickle",
+      name: "Appaemidi Mango Pickle",
       description: "A tangy delight made from young, tender raw mangoes, carefully selected and preserved with aromatic spices for an unforgettable taste experience."
     },
     jeerigeMango: {
@@ -36,20 +36,20 @@ export const translations = {
     },
     mix: {
       name: "Mix Pickle",
-      description: "A medley of fresh vegetables and fruits, carefully preserved with our secret spice blend to create a symphony of flavors that elevate any meal."
+      description: "A medley of fresh vegetables & tender mango, carefully preserved with our secret spice blend to create a symphony of flavors that elevate any meal."
     },
     
     // Footer
     taglineFooter: "Bringing the authentic taste of traditional Indian pickles to your table since 1965.",
     contactUs: "Contact Us",
     getInTouch: "Get in Touch",
-    address1: "123 Spice Avenue",
-    address2: "Flavor District, Pickle Town",
-    address3: "Karnataka, India - 560001",
+    address1: "Rayeshvar nilaya, Marikamba Nagar",
+    address2: "Uttarkannad District, Sirsi",
+    address3: "Karnataka, India - 581401",
     email: "Email: info@picklepalace.com",
     phone: "Phone: +91 98765 43210",
     hours: "Hours: Mon-Sat, 9:00 AM - 6:00 PM",
-    copyright: "© 2025 Pickle Palace. All rights reserved."
+    copyright: "© 2025 Vaishnavi Pickles. All rights reserved."
   },
   kn: {
     // Header
@@ -94,7 +94,7 @@ export const translations = {
     address1: "123 ಸ್ಪೈಸ್ ಅವೆನ್ಯೂ",
     address2: "ಫ್ಲೇವರ್ ಡಿಸ್ಟ್ರಿಕ್ಟ್, ಪಿಕಲ್ ಟೌನ್",
     address3: "ಕರ್ನಾಟಕ, ಭಾರತ - 560001",
-    email: "ಇಮೇಲ್: info@picklepalace.com",
+    email: "ಇಮೇಲ್: vaishnavi.home.products@gmail.com",
     phone: "ಫೋನ್: +91 98765 43210",
     hours: "ಸಮಯ: ಸೋಮ-ಶನಿ, 9:00 AM - 6:00 PM",
     copyright: "© 2025 ಪಿಕಲ್ ಪ್ಯಾಲೇಸ್. ಎಲ್ಲಾ ಹಕ್ಕುಗಳನ್ನು ಕಾಯ್ದಿರಿಸಲಾಗಿದೆ."
