@@ -13,7 +13,7 @@ const pickles = [
   {
     id: 2,
     key: "jeerigeMango",
-    imageSrc: "https://images.unsplash.com/photo-1602456546655-d48f1c9a5741?auto=format&fit=crop&q=80&w=1000"
+    imageSrc: "/jire.jpg"
   },
   {
     id: 3,
