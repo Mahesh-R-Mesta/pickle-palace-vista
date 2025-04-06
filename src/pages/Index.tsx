@@ -4,6 +4,7 @@ import Header from '@/components/Header';
 import Hero from '@/components/Hero';
 import PicklesSection from '@/components/PicklesSection';
 import Footer from '@/components/Footer';
+import { LanguageProvider } from '@/contexts/LanguageContext';
 
 const Index = () => {
   // Add smooth scrolling to the whole document
@@ -16,14 +17,16 @@ const Index = () => {
   }, []);
 
   return (
-    <div className="min-h-screen flex flex-col bg-pickle-cream">
-      <Header />
-      <main className="flex-grow">
-        <Hero />
-        <PicklesSection />
-      </main>
-      <Footer />
-    </div>
+    <LanguageProvider>
+      <div className="min-h-screen flex flex-col bg-pickle-cream">
+        <Header />
+        <main className="flex-grow">
+          <Hero />
+          <PicklesSection />
+        </main>
+        <Footer />
+      </div>
+    </LanguageProvider>
   );
 };
 
