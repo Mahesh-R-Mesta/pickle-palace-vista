@@ -38,6 +38,7 @@ export const translations = {
       name: "Mix Pickle",
       description: "A medley of fresh vegetables & tender mango, carefully preserved with our secret spice blend to create a symphony of flavors that elevate any meal."
     },
+    availableWeights: "Available options",
     
     // Footer
     taglineFooter: "Bringing the authentic taste of traditional Indian pickles to your table since 2000.",
@@ -97,7 +98,8 @@ export const translations = {
     email: "ಇಮೇಲ್: vaishnavi.home.products@gmail.com",
     phone: "ದೂರವಾಣಿ: +91 9480790031 / 9986465821",
     hours: "ಕಾರ್ಯ ಸಮಯ: ಸೋಮ-ಶನಿ, ಬೆಳಗ್ಗೆ 9:00 - ಸಂಜೆ 6:00",
-    copyright: "© 2025 ವೈಷ್ಣವಿ ಉಪ್ಪಿನಕಾಯಿ. ಎಲ್ಲಾ ಹಕ್ಕುಗಳನ್ನು ಕಾಯ್ದಿರಿಸಲಾಗಿದೆ."
+    copyright: "© 2025 ವೈಷ್ಣವಿ ಉಪ್ಪಿನಕಾಯಿ. ಎಲ್ಲಾ ಹಕ್ಕುಗಳನ್ನು ಕಾಯ್ದಿರಿಸಲಾಗಿದೆ.",
+    availableWeights: "ಲಭ್ಯವಿರುವ ಆಯ್ಕೆಗಳು"
   }
 };
 

@@ -8,7 +8,7 @@ const pickles = [
   {
     id: 1,
     key: "tenderMango",
-    imageSrc: "https://images.unsplash.com/photo-1589733955941-5eeaf752f6dd?auto=format&fit=crop&q=80&w=1000"
+    imageSrc: "/appe.jpg"
   },
   {
     id: 2,
@@ -23,7 +23,7 @@ const pickles = [
   {
     id: 4,
     key: "lemon",
-    imageSrc: "https://images.unsplash.com/photo-1546198632-9ef4a06d43b4?auto=format&fit=crop&q=80&w=1000"
+    imageSrc: "/limbo.jpg"
   },
   {
     id: 5,
