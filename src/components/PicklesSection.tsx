@@ -28,7 +28,7 @@ const pickles = [
   {
     id: 5,
     key: "mix",
-    imageSrc: "https://images.unsplash.com/photo-1607434036242-051040ee1ea2?auto=format&fit=crop&q=80&w=1000"
+    imageSrc: "/jirige.jpg"
   }
 ];
 
