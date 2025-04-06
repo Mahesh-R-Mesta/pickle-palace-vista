@@ -28,7 +28,7 @@ const pickles = [
   {
     id: 5,
     key: "mix",
-    imageSrc: "/jirige.jpg"
+    imageSrc: "/mix.jpg"
   }
 ];
 
